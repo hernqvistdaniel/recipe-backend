@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "recipeappbackend-a93cc",
+  "private_key_id": "1060f9102bb7e4c08b3f4fea8fba7062bc11d2fe",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCdm2a17obgKXLi\nDvm9rN/5yuL/3L3+sIVTuNCnspDbPn5vENOTxnKUwAodV4A9YrSyGlQJPru2OWES\neZShV17C21rDZ42s7DRGQK2Jq8vKDcumlRFw/kKfSDh5LzBmyEOZlh0lsNm8lLLL\ncKbptUb65njv/e7T52FWI78DiGi/FdtXkHOmW9KJUz6xiW5yqVPBHD4CvKr/+uD8\nZ/7jWW3LtS69KZEpl2myoJ/VH/U+n+S95OPqt7ZxUJJrO7opzKlBHj5MDvUkQard\n69S9EUiGsIU6NO3lyMiWG+1WJZSe3vnH5y/mPBG6TnV2HWnlMpA70VgYpC2koVgC\n8Fv+GX4ZAgMBAAECggEATrB1Iqa5/peTPVy+wj3bAeuTVK4QymW126wtuVzFSEG2\nfJuJF4IAWVZcdnPmmj96+mV8ybThocSaO9AqLjfiHyXH9kHwkYLJQr4uJst4jyQ+\nJqjMsX6xIre7Qn4WC2s3nSo+2T+oJqiTcFGJdKxGiSSjAyfkozYl+g0U5J2ptqVZ\nbv5NHvNTxUjrkhjJH3eQ8Bi25Hww18LkGdySskH/XhZ58UA9zM76RV8PMEzaidrv\npYr1zF5oJL56+TNfU5tXQZvEKXIwDbcQ/f55Be06Mcr/WBqiaETFSalQa5kihVXP\nbfXhoOWseOVMocB0//zXicmQ5BtSrmjBQnvTb1XtZQKBgQDJMlePwY+YrIuwZkY3\nCkwZX1PD1485UflAtaclCehvLCLcdt6EPxZGvSfV6ySn83te5r7RYefRrwtqroPJ\nRdBKq7BWhPd3XWTJVXvFUwJxowlwsPxiZRe9ff/7V4mmhg/VanRKwZg8IrUz3UWS\nGnooY9iWjtxOUJ2+wIlSZwTbuwKBgQDIiYI+mZm339NK5HrDXT/EwUQ7odDXBVA3\naL37rjO64IZ73hxtsfDPzj25Gxc/4MyGhnE5cnFE/U2VZZ9ExtRUJ7OR0Rp33uN2\niQdY7kDhBVUQJWfv4b5S25iFkvlMJGa8f8TgETgZS1G0RNjSpfE3pwSShSvAbTP5\nr1TdFGnuOwKBgAu6+Kn0AhhHrxlIzT02R3uPOEYJ0lroMZ0ZOjaJnlik/R9Xet/B\nAd579s+dFxUHuCCvWV7B049BImxE4oAgpuVDn1NcC0WVV2P5rO6zSUgw1kMQvpZK\nCJlOuFcCIo9n75Jk04TsRqDy8RemBgFfs9GZCK62g5e5UYkmlpsMUJczAoGBAIzj\n71nD2LfSzUQk2gtADHlTv3iV63/l/8GuGSwl67oz3MhR+G8pQSL+p2bRnbgHXCp3\ncj0GJoZt4IBB8XAEsVCexA6CdrIZKn4xL7RPT83ITUcWwLtMQsc7+SB/bh8MxBFT\nQyKZdmxu+mxIonz8kUikUxYN8fszvfyCLoFUwkfZAoGBAKhfays9OFTh8LJALtTh\nVm82bhpKsOPS6GILONZ8wXE25nyl8XivoWa0aZ2ULu++o4UoKrgpL/50+L7LKaVd\n9s6pHl/mUwuxOLeMMb+CmG8tiCKQQ5HQVVTV9HNI5f+qgtB8D69vN0NuJsA+y006\nATKz6S1jNjonEvKV3iSNA6QV\n-----END PRIVATE KEY-----\n",
+  "client_email": "recipeappbackend-a93cc@appspot.gserviceaccount.com",
+  "client_id": "101514749598092102438",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/recipeappbackend-a93cc%40appspot.gserviceaccount.com"
+}
